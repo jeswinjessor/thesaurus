@@ -13,6 +13,10 @@ A web application developed using python by utilizing the idea of https://www.th
 * json
 * difflib
 
+## Tools Used
+
+* PHPMyAdmin
+
 ## Authors
 
 [@Jeswin K Jessor](https://www.linkedin.com/in/jeswinkjessor/)
