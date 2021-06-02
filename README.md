@@ -8,10 +8,11 @@ A web application developed using python by utilizing the idea of https://www.th
 
 ## Getting Started
 
-### Dependencies
+### Dependencies / Libraries
 
 * json
 * difflib
+* mysql-connector-python
 
 ## Tools Used
 
